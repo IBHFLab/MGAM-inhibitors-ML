@@ -1,0 +1,6 @@
+Metric,Value
+Accuracy,0.926406926
+ROC AUC,0.928308824
+MCC,0.860500207
+P-Value,6.25E-05
+Significance,显著

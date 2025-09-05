@@ -1,0 +1,10 @@
+Metric,Value
+Accuracy,<function accuracy_score at 0x14c4052f4dc0>
+Recall,<function recall_score at 0x14c405300d30>
+Precision,<function precision_score at 0x14c405300c10>
+ROC AUC,<function roc_auc_score at 0x14c4051af430>
+MCC,0.7753687028809254
+f1,0.8969696969696969
+Z-Score,5.280060990905449
+P-Value,1.2914089155726092e-07
+Significance,显著
